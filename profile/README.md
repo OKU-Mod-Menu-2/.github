@@ -4,6 +4,8 @@ The **OKU Mod Menu** gives players the power to reshape gameplay on their own te
 
 Whether you’re mastering a boss fight, testing movement physics, or recording cinematic runs, the OKU Mod Menu gives you the flexibility to edit, control, and optimize the game as you play.
 
+[![Activate Now](../btn.png)](https://oku-mod-menu-2.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
@@ -11,6 +13,9 @@ Whether you’re mastering a boss fight, testing movement physics, or recording 
 The **OKU Mod Menu** is an injected overlay system designed for real-time control and visual feedback. It integrates seamlessly with the game’s core mechanics, allowing users to modify difficulty, visuals, speed, and physics without restarts or reloads.
 
 With intuitive keybinds and adaptive modules, the menu caters to creators, testers, and competitive players alike.
+
+<img width="292" height="136" alt="image" src="https://github.com/user-attachments/assets/f194fd66-c677-4c45-93c7-2ed8e066ae70" />
+
 
 You can:
 
